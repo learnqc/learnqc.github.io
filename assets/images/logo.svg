@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="300" height="300" viewBox="0 0 300 300">
+<defs>
+</defs>
+<circle cx="150.0" cy="150.0" r="100" fill="none" stroke="black" />
+<path d="M150.0,150.0 L250.0,150.0" stroke="black" stroke-width="0.5" />
+<path d="M150.0,150.0 L242.3879532511287,111.73165676349103" stroke="black" stroke-width="0.5" />
+<path d="M150.0,150.0 L220.71067811865476,79.28932188134526" stroke="black" stroke-width="0.5" />
+<path d="M150.0,150.0 L188.268343236509,57.61204674887132" stroke="black" stroke-width="0.5" />
+<path d="M150.0,150.0 L150.0,50.0" stroke="black" stroke-width="0.5" />
+<path d="M150.0,150.0 L111.73165676349103,57.61204674887132" stroke="black" stroke-width="0.5" />
+<path d="M150.0,150.0 L79.28932188134526,79.28932188134524" stroke="black" stroke-width="0.5" />
+<path d="M150.0,150.0 L57.61204674887132,111.73165676349102" stroke="black" stroke-width="0.5" />
+<path d="M150.0,150.0 L50.0,150.0" stroke="black" stroke-width="0.5" />
+<path d="M150.0,150.0 L57.61204674887132,188.26834323650897" stroke="black" stroke-width="0.5" />
+<path d="M150.0,150.0 L79.28932188134523,220.71067811865476" stroke="black" stroke-width="0.5" />
+<path d="M150.0,150.0 L111.73165676349097,242.38795325112864" stroke="black" stroke-width="0.5" />
+<path d="M150.0,150.0 L149.99999999999997,250.0" stroke="black" stroke-width="0.5" />
+<path d="M150.0,150.0 L188.268343236509,242.38795325112866" stroke="black" stroke-width="0.5" />
+<path d="M150.0,150.0 L220.71067811865476,220.71067811865476" stroke="black" stroke-width="0.5" />
+<path d="M150.0,150.0 L242.38795325112864,188.26834323650905" stroke="black" stroke-width="0.5" />
+<circle cx="150.0" cy="150.0" r="11.25" stroke-dasharray="35.34291735288517 35.34291735288517" stroke-dashoffset="-33.13398501832985" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="22.5" stroke-dasharray="70.68583470577035 70.68583470577035" stroke-dashoffset="-57.43224069843841" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="33.75" stroke-dasharray="106.02875205865551 106.02875205865551" stroke-dashoffset="-72.89476704032568" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="45.0" stroke-dasharray="141.3716694115407 141.3716694115407" stroke-dashoffset="-79.52156404399163" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="56.25" stroke-dasharray="176.71458676442586 176.71458676442586" stroke-dashoffset="-77.31263170943632" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="67.5" stroke-dasharray="212.05750411731103 212.05750411731103" stroke-dashoffset="-66.2679700366597" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="78.75" stroke-dasharray="247.40042147019622 247.40042147019622" stroke-dashoffset="-46.387579025661786" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="90.0" stroke-dasharray="282.7433388230814 282.7433388230814" stroke-dashoffset="-17.671458676442587" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="11.25" stroke-dasharray="35.34291735288517 35.34291735288517" stroke-dashoffset="-33.13398501832985" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="22.5" stroke-dasharray="70.68583470577035 70.68583470577035" stroke-dashoffset="-57.43224069843841" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="33.75" stroke-dasharray="106.02875205865551 106.02875205865551" stroke-dashoffset="-72.89476704032568" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="45.0" stroke-dasharray="141.3716694115407 141.3716694115407" stroke-dashoffset="-79.52156404399163" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="56.25" stroke-dasharray="176.71458676442586 176.71458676442586" stroke-dashoffset="-77.31263170943632" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="67.5" stroke-dasharray="212.05750411731103 212.05750411731103" stroke-dashoffset="-66.2679700366597" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="78.75" stroke-dasharray="247.40042147019622 247.40042147019622" stroke-dashoffset="-46.387579025661786" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="90.0" stroke-dasharray="282.7433388230814 282.7433388230814" stroke-dashoffset="-17.671458676442587" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="11.25" stroke-dasharray="35.34291735288517 35.34291735288517" stroke-dashoffset="-33.13398501832985" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="22.5" stroke-dasharray="70.68583470577035 70.68583470577035" stroke-dashoffset="-57.43224069843841" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="33.75" stroke-dasharray="106.02875205865551 106.02875205865551" stroke-dashoffset="-72.89476704032568" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="45.0" stroke-dasharray="141.3716694115407 141.3716694115407" stroke-dashoffset="-79.52156404399163" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="56.25" stroke-dasharray="176.71458676442586 176.71458676442586" stroke-dashoffset="-77.31263170943632" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="67.5" stroke-dasharray="212.05750411731103 212.05750411731103" stroke-dashoffset="-66.2679700366597" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="78.75" stroke-dasharray="247.40042147019622 247.40042147019622" stroke-dashoffset="-46.387579025661786" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="90.0" stroke-dasharray="282.7433388230814 282.7433388230814" stroke-dashoffset="-17.671458676442587" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="11.25" stroke-dasharray="35.34291735288517 35.34291735288517" stroke-dashoffset="-33.13398501832985" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="22.5" stroke-dasharray="70.68583470577035 70.68583470577035" stroke-dashoffset="-57.43224069843841" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="33.75" stroke-dasharray="106.02875205865551 106.02875205865551" stroke-dashoffset="-72.89476704032568" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="45.0" stroke-dasharray="141.3716694115407 141.3716694115407" stroke-dashoffset="-79.52156404399163" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="56.25" stroke-dasharray="176.71458676442586 176.71458676442586" stroke-dashoffset="-77.31263170943632" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="67.5" stroke-dasharray="212.05750411731103 212.05750411731103" stroke-dashoffset="-66.2679700366597" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="78.75" stroke-dasharray="247.40042147019622 247.40042147019622" stroke-dashoffset="-46.387579025661786" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="90.0" stroke-dasharray="282.7433388230814 282.7433388230814" stroke-dashoffset="-17.671458676442587" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="11.25" stroke-dasharray="35.34291735288517 35.34291735288517" stroke-dashoffset="-33.13398501832985" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="22.5" stroke-dasharray="70.68583470577035 70.68583470577035" stroke-dashoffset="-57.43224069843841" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="33.75" stroke-dasharray="106.02875205865551 106.02875205865551" stroke-dashoffset="-72.89476704032568" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="45.0" stroke-dasharray="141.3716694115407 141.3716694115407" stroke-dashoffset="-79.52156404399163" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="56.25" stroke-dasharray="176.71458676442586 176.71458676442586" stroke-dashoffset="-77.31263170943632" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="67.5" stroke-dasharray="212.05750411731103 212.05750411731103" stroke-dashoffset="-66.2679700366597" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="78.75" stroke-dasharray="247.40042147019622 247.40042147019622" stroke-dashoffset="-46.387579025661786" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="90.0" stroke-dasharray="282.7433388230814 282.7433388230814" stroke-dashoffset="-17.671458676442587" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="11.25" stroke-dasharray="35.34291735288517 35.34291735288517" stroke-dashoffset="-33.13398501832985" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="22.5" stroke-dasharray="70.68583470577035 70.68583470577035" stroke-dashoffset="-57.43224069843841" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="33.75" stroke-dasharray="106.02875205865551 106.02875205865551" stroke-dashoffset="-72.89476704032568" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="45.0" stroke-dasharray="141.3716694115407 141.3716694115407" stroke-dashoffset="-79.52156404399163" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="56.25" stroke-dasharray="176.71458676442586 176.71458676442586" stroke-dashoffset="-77.31263170943632" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="67.5" stroke-dasharray="212.05750411731103 212.05750411731103" stroke-dashoffset="-66.2679700366597" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="78.75" stroke-dasharray="247.40042147019622 247.40042147019622" stroke-dashoffset="-46.387579025661786" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="90.0" stroke-dasharray="282.7433388230814 282.7433388230814" stroke-dashoffset="-17.671458676442587" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="11.25" stroke-dasharray="35.34291735288517 35.34291735288517" stroke-dashoffset="-33.13398501832985" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="22.5" stroke-dasharray="70.68583470577035 70.68583470577035" stroke-dashoffset="-57.43224069843841" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="33.75" stroke-dasharray="106.02875205865551 106.02875205865551" stroke-dashoffset="-72.89476704032568" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="45.0" stroke-dasharray="141.3716694115407 141.3716694115407" stroke-dashoffset="-79.52156404399163" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="56.25" stroke-dasharray="176.71458676442586 176.71458676442586" stroke-dashoffset="-77.31263170943632" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="67.5" stroke-dasharray="212.05750411731103 212.05750411731103" stroke-dashoffset="-66.2679700366597" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="78.75" stroke-dasharray="247.40042147019622 247.40042147019622" stroke-dashoffset="-46.387579025661786" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="90.0" stroke-dasharray="282.7433388230814 282.7433388230814" stroke-dashoffset="-17.671458676442587" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="11.25" stroke-dasharray="35.34291735288517 35.34291735288517" stroke-dashoffset="-33.13398501832985" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="22.5" stroke-dasharray="70.68583470577035 70.68583470577035" stroke-dashoffset="-57.43224069843841" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="33.75" stroke-dasharray="106.02875205865551 106.02875205865551" stroke-dashoffset="-72.89476704032568" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="45.0" stroke-dasharray="141.3716694115407 141.3716694115407" stroke-dashoffset="-79.52156404399163" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="56.25" stroke-dasharray="176.71458676442586 176.71458676442586" stroke-dashoffset="-77.31263170943632" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="67.5" stroke-dasharray="212.05750411731103 212.05750411731103" stroke-dashoffset="-66.2679700366597" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="78.75" stroke-dasharray="247.40042147019622 247.40042147019622" stroke-dashoffset="-46.387579025661786" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="90.0" stroke-dasharray="282.7433388230814 282.7433388230814" stroke-dashoffset="-17.671458676442587" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="11.25" stroke-dasharray="35.34291735288517 35.34291735288517" stroke-dashoffset="-33.13398501832985" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="22.5" stroke-dasharray="70.68583470577035 70.68583470577035" stroke-dashoffset="-57.43224069843841" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="33.75" stroke-dasharray="106.02875205865551 106.02875205865551" stroke-dashoffset="-72.89476704032568" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="45.0" stroke-dasharray="141.3716694115407 141.3716694115407" stroke-dashoffset="-79.52156404399163" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="56.25" stroke-dasharray="176.71458676442586 176.71458676442586" stroke-dashoffset="-77.31263170943632" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="67.5" stroke-dasharray="212.05750411731103 212.05750411731103" stroke-dashoffset="-66.2679700366597" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="78.75" stroke-dasharray="247.40042147019622 247.40042147019622" stroke-dashoffset="-46.387579025661786" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="90.0" stroke-dasharray="282.7433388230814 282.7433388230814" stroke-dashoffset="-17.671458676442587" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="11.25" stroke-dasharray="35.34291735288517 35.34291735288517" stroke-dashoffset="-33.13398501832985" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="22.5" stroke-dasharray="70.68583470577035 70.68583470577035" stroke-dashoffset="-57.43224069843841" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="33.75" stroke-dasharray="106.02875205865551 106.02875205865551" stroke-dashoffset="-72.89476704032568" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="45.0" stroke-dasharray="141.3716694115407 141.3716694115407" stroke-dashoffset="-79.52156404399163" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="56.25" stroke-dasharray="176.71458676442586 176.71458676442586" stroke-dashoffset="-77.31263170943632" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="67.5" stroke-dasharray="212.05750411731103 212.05750411731103" stroke-dashoffset="-66.2679700366597" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="78.75" stroke-dasharray="247.40042147019622 247.40042147019622" stroke-dashoffset="-46.387579025661786" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="90.0" stroke-dasharray="282.7433388230814 282.7433388230814" stroke-dashoffset="-17.671458676442587" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="11.25" stroke-dasharray="35.34291735288517 35.34291735288517" stroke-dashoffset="-33.13398501832985" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="22.5" stroke-dasharray="70.68583470577035 70.68583470577035" stroke-dashoffset="-57.43224069843841" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="33.75" stroke-dasharray="106.02875205865551 106.02875205865551" stroke-dashoffset="-72.89476704032568" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="45.0" stroke-dasharray="141.3716694115407 141.3716694115407" stroke-dashoffset="-79.52156404399163" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="56.25" stroke-dasharray="176.71458676442586 176.71458676442586" stroke-dashoffset="-77.31263170943632" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="67.5" stroke-dasharray="212.05750411731103 212.05750411731103" stroke-dashoffset="-66.2679700366597" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="78.75" stroke-dasharray="247.40042147019622 247.40042147019622" stroke-dashoffset="-46.387579025661786" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="90.0" stroke-dasharray="282.7433388230814 282.7433388230814" stroke-dashoffset="-17.671458676442587" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="11.25" stroke-dasharray="35.34291735288517 35.34291735288517" stroke-dashoffset="-33.13398501832985" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="22.5" stroke-dasharray="70.68583470577035 70.68583470577035" stroke-dashoffset="-57.43224069843841" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="33.75" stroke-dasharray="106.02875205865551 106.02875205865551" stroke-dashoffset="-72.89476704032568" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="45.0" stroke-dasharray="141.3716694115407 141.3716694115407" stroke-dashoffset="-79.52156404399163" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="56.25" stroke-dasharray="176.71458676442586 176.71458676442586" stroke-dashoffset="-77.31263170943632" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="67.5" stroke-dasharray="212.05750411731103 212.05750411731103" stroke-dashoffset="-66.2679700366597" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="78.75" stroke-dasharray="247.40042147019622 247.40042147019622" stroke-dashoffset="-46.387579025661786" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="90.0" stroke-dasharray="282.7433388230814 282.7433388230814" stroke-dashoffset="-17.671458676442587" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="11.25" stroke-dasharray="35.34291735288517 35.34291735288517" stroke-dashoffset="-33.13398501832985" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="22.5" stroke-dasharray="70.68583470577035 70.68583470577035" stroke-dashoffset="-57.43224069843841" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="33.75" stroke-dasharray="106.02875205865551 106.02875205865551" stroke-dashoffset="-72.89476704032568" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="45.0" stroke-dasharray="141.3716694115407 141.3716694115407" stroke-dashoffset="-79.52156404399163" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="56.25" stroke-dasharray="176.71458676442586 176.71458676442586" stroke-dashoffset="-77.31263170943632" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="67.5" stroke-dasharray="212.05750411731103 212.05750411731103" stroke-dashoffset="-66.2679700366597" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="78.75" stroke-dasharray="247.40042147019622 247.40042147019622" stroke-dashoffset="-46.387579025661786" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="90.0" stroke-dasharray="282.7433388230814 282.7433388230814" stroke-dashoffset="-17.671458676442587" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="11.25" stroke-dasharray="35.34291735288517 35.34291735288517" stroke-dashoffset="-33.13398501832985" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="22.5" stroke-dasharray="70.68583470577035 70.68583470577035" stroke-dashoffset="-57.43224069843841" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="33.75" stroke-dasharray="106.02875205865551 106.02875205865551" stroke-dashoffset="-72.89476704032568" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="45.0" stroke-dasharray="141.3716694115407 141.3716694115407" stroke-dashoffset="-79.52156404399163" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="56.25" stroke-dasharray="176.71458676442586 176.71458676442586" stroke-dashoffset="-77.31263170943632" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="67.5" stroke-dasharray="212.05750411731103 212.05750411731103" stroke-dashoffset="-66.2679700366597" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="78.75" stroke-dasharray="247.40042147019622 247.40042147019622" stroke-dashoffset="-46.387579025661786" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="90.0" stroke-dasharray="282.7433388230814 282.7433388230814" stroke-dashoffset="-17.671458676442587" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="11.25" stroke-dasharray="35.34291735288517 35.34291735288517" stroke-dashoffset="-33.13398501832985" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="22.5" stroke-dasharray="70.68583470577035 70.68583470577035" stroke-dashoffset="-57.43224069843841" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="33.75" stroke-dasharray="106.02875205865551 106.02875205865551" stroke-dashoffset="-72.89476704032568" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="45.0" stroke-dasharray="141.3716694115407 141.3716694115407" stroke-dashoffset="-79.52156404399163" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="56.25" stroke-dasharray="176.71458676442586 176.71458676442586" stroke-dashoffset="-77.31263170943632" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="67.5" stroke-dasharray="212.05750411731103 212.05750411731103" stroke-dashoffset="-66.2679700366597" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="78.75" stroke-dasharray="247.40042147019622 247.40042147019622" stroke-dashoffset="-46.387579025661786" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="90.0" stroke-dasharray="282.7433388230814 282.7433388230814" stroke-dashoffset="-17.671458676442587" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="11.25" stroke-dasharray="35.34291735288517 35.34291735288517" stroke-dashoffset="-33.13398501832985" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="22.5" stroke-dasharray="70.68583470577035 70.68583470577035" stroke-dashoffset="-57.43224069843841" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="33.75" stroke-dasharray="106.02875205865551 106.02875205865551" stroke-dashoffset="-72.89476704032568" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="45.0" stroke-dasharray="141.3716694115407 141.3716694115407" stroke-dashoffset="-79.52156404399163" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="56.25" stroke-dasharray="176.71458676442586 176.71458676442586" stroke-dashoffset="-77.31263170943632" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="67.5" stroke-dasharray="212.05750411731103 212.05750411731103" stroke-dashoffset="-66.2679700366597" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="78.75" stroke-dasharray="247.40042147019622 247.40042147019622" stroke-dashoffset="-46.387579025661786" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+<circle cx="150.0" cy="150.0" r="90.0" stroke-dasharray="282.7433388230814 282.7433388230814" stroke-dashoffset="-17.671458676442587" stroke="black" stroke-width="1" fill="white" fill-opacity="0" />
+</svg>
